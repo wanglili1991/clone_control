@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zealens.face.MainActivity">
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="用例类别"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radioMatch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="比赛"/>
+
+        <RadioButton
+            android:id="@+id/radioDrill"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="24dp"
+            android:layout_marginStart="24dp"
+            android:text="训练"/>
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/eventID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/radioGroup"
+        android:layout_marginTop="18dp"
+        android:ems="10"
+        android:hint="请输入事件ID(D001):"
+        android:inputType="textPersonName"
+        android:text=""
+        tools:layout_editor_absoluteX="96dp"
+        tools:layout_editor_absoluteY="130dp"/>
+
+    <Button
+        android:id="@+id/run"
+        android:layout_width="83dp"
+        android:layout_height="37dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/eventID"
+        android:imeOptions="actionDone"
+        android:inputType="text"
+        android:text="运行"
+        tools:layout_editor_absoluteX="96dp"
+        tools:layout_editor_absoluteY="193dp"/>
+
+</RelativeLayout>

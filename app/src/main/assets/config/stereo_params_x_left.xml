@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<opencv_storage>
+   <K1 type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>535.309309 0.000000 483.893739 0.000000 535.192898 305.294982 0.000000 0.000000 1.000000 </data>
+   </K1>
+   <K2 type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>541.208867 0.000000 495.047908 0.000000 541.921899 305.584044 0.000000 0.000000 1.000000 </data>
+   </K2>
+   <D1 type_id="opencv-matrix">
+      <rows>8</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>-0.101444 0.051163 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 </data>
+   </D1>
+   <D2 type_id="opencv-matrix">
+      <rows>8</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>-0.111139 0.079628 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 </data>
+   </D2>
+   <R type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>0.794648 -0.151771 0.587792 0.179528 0.983688 0.011286 -0.579917 0.096557 0.808933 </data>
+   </R>
+   <T type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>-671.944693 -31.757520 200.917619 </data>
+   </T>
+   <E type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>-11.826709 197.998697 45.089631 -554.622555 -43.654057 -427.042977 -127.217967 655.282645 83.297384 </data>
+   </E>
+   <F type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>-0.000041 0.000683 -0.104130 -0.001915 -0.000151 0.195987 0.369268 0.924863 -179.288179 </data>
+   </F>
+   <Rz type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>0.324219 0.465176 -0.823707 -0.944533 0.111017 -0.309082 -0.052332 0.878229 0.475368 </data>
+   </Rz>
+   <Tz type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>167.414031 86.785564 653.257471 </data>
+   </Tz>
+   <M1 type_id="opencv-matrix">
+      <rows>6</rows>
+      <cols>2</cols>
+      <dt>d</dt>
+      <data>2.000000 129.500000 100.500000 48.000000 244.500000 47.000000 474.500000 135.000000 94.000000 76.500000 299.500000 70.500000 </data>
+   </M1>
+   <M2 type_id="opencv-matrix">
+      <rows>6</rows>
+      <cols>2</cols>
+      <dt>d</dt>
+      <data>0.500000 148.500000 244.000000 38.500000 390.000000 31.500000 477.500000 142.500000 185.500000 68.000000 397.500000 60.000000 </data>
+   </M2>
+</opencv_storage>

@@ -1,0 +1,24 @@
+# {05D8C294-F295-4dfb-9D01-096BD04049F4}
+# GenApi persistence file (version 3.0.0)
+# Device = Basler::GigECamera -- Basler generic GigEVision camera interface -- Device version = 3.8.0 -- Product GUID = 1F3C6A72-7842-4edd-9130-E2E90A2058BA -- Product version GUID = DA22BF28-7AFF-4F25-A4B9-02C178ACF6CD
+
+GainAuto	Off
+
+GainRaw	0
+
+PixelFormat	Mono8
+
+OffsetX	0
+OffsetY	0
+
+BinningHorizontal	2
+BinningVertical	2
+
+TriggerMode	On
+# TriggerMode	Off
+
+ExposureAuto	Off
+ExposureTimeRaw	10000
+
+AcquisitionFrameRateEnable	0
+AcquisitionFrameRateAbs	30.0003
